@@ -1,3 +1,3 @@
 # Ray-Tracing
-Let's try this out in two days...
+Not seeing myself do it any soon
 Maybe after the report!
